@@ -1,6 +1,6 @@
 <b>Teste ASP.NET / C#.Net</b>
 
-Este teste tem por objetivo avaliar seus conhecimentos no framework MVC.NET
+Este teste tem por objetivo avaliar seus conhecimentos com tecnologias Microsoft .NET.
 
 <b>Descritivo do Teste:</b>
 
